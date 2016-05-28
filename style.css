@@ -91,6 +91,9 @@ header .container-fluid
 {
     color: #000000;
 }
+h1 {
+    text-shadow: 2px 2px;
+}
 
 .jumbotron p
 {
