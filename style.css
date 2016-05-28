@@ -49,7 +49,7 @@ span.x4:before, i.x4:before
 
 header .container-fluid
 {
-    background-image: url('http://www.mse.ucr.edu/MSE_building_Nov_2010.jpg');
+    background-image: url('http://wallpapercave.com/wp/zuiHX0K.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -89,10 +89,7 @@ header .container-fluid
 .jumbotron h6,
 .jumbotron small
 {
-    color: #000000;
-}
-h1 {
-    text-shadow: 2px 2px;
+    color: #FFFFFF;
 }
 
 .jumbotron p
