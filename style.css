@@ -118,7 +118,10 @@ header .container-fluid
     background-color: rgba(128, 215, 247, 0.660);
 }
 
-.opaline h1,
+.opaline h1
+{
+  color: #000000
+}
 .opaline h2,
 .opaline h3,
 .opaline h4,
@@ -175,11 +178,6 @@ header .container-fluid
 {
     color: #FFFFFF;
 }
-.prefooter h1,
-{
-    color: #000000;
-}
-
 
 /*------------------------------------*\
 	FOOTER
