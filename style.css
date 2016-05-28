@@ -175,6 +175,11 @@ header .container-fluid
 {
     color: #FFFFFF;
 }
+.prefooter h1,
+{
+    color: #000000;
+}
+
 
 /*------------------------------------*\
 	FOOTER
