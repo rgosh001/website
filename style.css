@@ -52,7 +52,10 @@ header .container-fluid
     background-image: url('http://orig03.deviantart.net/835d/f/2009/038/e/9/schematic_wallpaper_1920_by_hugo07.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 60vh;
+    /*height: 60vh;*/
+    width: auto;
+    height: auto;
+
     padding-top: 20px;
 }
 
