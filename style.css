@@ -108,6 +108,7 @@ header .container-fluid
     background-image: url('http://wallpapercave.com/wp/wwkaa5r.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    height: 60vh;
     background-position: center;
 }
 
