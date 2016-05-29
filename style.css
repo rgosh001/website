@@ -53,7 +53,7 @@ header .container-fluid
     background-repeat: no-repeat;
     background-size: cover;
     height: 75vh;
-    padding-top: 20px;
+    /*padding-top: 20px;*/
 }
 
 .hamburger
