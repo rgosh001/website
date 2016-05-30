@@ -153,6 +153,8 @@ header .container-fluid
     background-image: url('http://rdi-sf.com/wp-content/uploads/2012/01/RDI_PM1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    width: auto;
+    height: auto;
     background-position: center;
 }
 
